@@ -1,3 +1,3 @@
 # IJ-montage-macro
 
-simple dialogque based montage helper for IF image stacks
+simple dialogue based montage helper for IF image stacks
